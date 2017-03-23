@@ -1,7 +1,13 @@
 "*":
   "atom-material-ui":
     colors:
+      abaseColor: "#5c6bc0"
       genAccent: true
+      predefinedColor: "Indigo"
+    tabs: {}
+    treeView:
+      compactList: true
+    ui: {}
   core:
     telemetryConsent: "limited"
     themes: [

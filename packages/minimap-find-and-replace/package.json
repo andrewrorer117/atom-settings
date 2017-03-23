@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-6860-1hti45f\\package.tgz",
+        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11723-16416-q5393m\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-6860-1hti45f\\package.tgz",
-        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-6860-1hti45f\\package.tgz",
+        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11723-16416-q5393m\\package.tgz",
+        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11723-16416-q5393m\\package.tgz",
         "type": "local"
       },
-      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-11692-6860-feblj9"
+      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-11723-16416-1j3xpos"
     ]
   ],
-  "_from": "..\\d-11692-6860-1hti45f\\package.tgz",
-  "_id": "minimap-find-and-replace@4.5.1",
+  "_from": "..\\d-11723-16416-q5393m\\package.tgz",
+  "_id": "minimap-find-and-replace@4.5.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/minimap-find-and-replace",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-6860-1hti45f\\package.tgz",
+    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11723-16416-q5393m\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-6860-1hti45f\\package.tgz",
-    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-6860-1hti45f\\package.tgz",
+    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11723-16416-q5393m\\package.tgz",
+    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11723-16416-q5393m\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-11692-6860-1hti45f\\package.tgz",
-  "_shasum": "ef5664f133d2fa56484387f93ba4915b47e5fce7",
+  "_resolved": "file:..\\d-11723-16416-q5393m\\package.tgz",
+  "_shasum": "b7f2d462efcfc9bc3ea9e29720a779fbd7805d58",
   "_shrinkwrap": null,
-  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-6860-1hti45f\\package.tgz",
-  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-11692-6860-feblj9",
+  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11723-16416-q5393m\\package.tgz",
+  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-11723-16416-1j3xpos",
   "author": {
     "name": "Cédric Néhémie",
     "email": "cedric.nehemie@gmail.com"
@@ -71,5 +71,5 @@
     "type": "git",
     "url": "git+https://github.com/atom-minimap/minimap-find-and-replace.git"
   },
-  "version": "4.5.1"
+  "version": "4.5.2"
 }

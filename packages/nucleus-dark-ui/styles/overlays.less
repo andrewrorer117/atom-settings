@@ -50,9 +50,11 @@ atom-panel.modal {
       .character-match {
         .text(normal);
       }
+
       .secondary-line .character-match {
         .text(invert);
       }
+
       &:hover {
         color: @text-color-highlight;
         background: transparent;
@@ -60,15 +62,14 @@ atom-panel.modal {
     }
   }
 
-  atom-text-editor.mini,
-  atom-text-editor.mini::shadow {
+  atom-text-editor.mini {
     max-height: none;
     background-color: transparent;
     border: 0;
     border-radius: 0;
     padding: 0;
 
-    .text {
+    .line {
       font-size: @ui-size * 2;
       height: 1.3em;
       line-height: 1.3em;
@@ -90,8 +91,8 @@ atom-panel.modal {
   }
 }
 
-.select-list.popover-list,
-.autocomplete-suggestion-list.select-list.popover-list  {
+.autocomplete-suggestion-list.select-list.popover-list,
+.select-list.popover-list {
   .shadow();
   .text(normal);
 
@@ -128,7 +129,6 @@ atom-panel.modal {
     }
 
     &.selected {
-
       .word {
         .text(highlight);
 

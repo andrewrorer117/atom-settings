@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-3984-1ipmend\\package.tgz",
+        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117014-7144-1fep46p\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-3984-1ipmend\\package.tgz",
-        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-3984-1ipmend\\package.tgz",
+        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117014-7144-1fep46p\\package.tgz",
+        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117014-7144-1fep46p\\package.tgz",
         "type": "local"
       },
-      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-11692-3984-1c5h9k9"
+      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117014-7144-38s2su"
     ]
   ],
-  "_from": "..\\d-11692-3984-1ipmend\\package.tgz",
-  "_id": "minimap-highlight-selected@4.4.0",
+  "_from": "..\\d-117014-7144-1fep46p\\package.tgz",
+  "_id": "minimap-highlight-selected@4.5.0",
   "_inCache": true,
   "_installable": true,
   "_location": "/minimap-highlight-selected",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-3984-1ipmend\\package.tgz",
+    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117014-7144-1fep46p\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-3984-1ipmend\\package.tgz",
-    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-3984-1ipmend\\package.tgz",
+    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117014-7144-1fep46p\\package.tgz",
+    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117014-7144-1fep46p\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-11692-3984-1ipmend\\package.tgz",
-  "_shasum": "431224ac6cbe9db91f34c713f1c4bedd424fdfe6",
+  "_resolved": "file:..\\d-117014-7144-1fep46p\\package.tgz",
+  "_shasum": "e1b99f88ecff37a867626881fbaf87e5126565d5",
   "_shrinkwrap": null,
-  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-11692-3984-1ipmend\\package.tgz",
-  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-11692-3984-1c5h9k9",
+  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117014-7144-1fep46p\\package.tgz",
+  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117014-7144-38s2su",
   "bugs": {
     "url": "https://github.com/atom-minimap/minimap-highlight-selected/issues"
   },
@@ -44,10 +44,15 @@
       "versions": {
         "1.0.0": "consumeMinimapServiceV1"
       }
+    },
+    "highlightSelected": {
+      "versions": {
+        "1.0.0": "consumeHighlightSelectedServiceV1"
+      }
     }
   },
   "dependencies": {
-    "atom-utils": ">=0.6.3",
+    "atom-utils": "0.0.1",
     "event-kit": ">= 0.7.2",
     "underscore-plus": "1.x"
   },
@@ -67,5 +72,5 @@
     "type": "git",
     "url": "git+https://github.com/atom-minimap/minimap-highlight-selected.git"
   },
-  "version": "4.4.0"
+  "version": "4.5.0"
 }

@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-116910-12684-axfdnk\\package.tgz",
+        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117018-12224-1lcb0da\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-116910-12684-axfdnk\\package.tgz",
-        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-116910-12684-axfdnk\\package.tgz",
+        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117018-12224-1lcb0da\\package.tgz",
+        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117018-12224-1lcb0da\\package.tgz",
         "type": "local"
       },
-      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-116910-12684-hczx5s"
+      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117018-12224-6iwq33"
     ]
   ],
-  "_from": "..\\d-116910-12684-axfdnk\\package.tgz",
-  "_id": "atom-material-syntax@0.4.6",
+  "_from": "..\\d-117018-12224-1lcb0da\\package.tgz",
+  "_id": "atom-material-syntax@1.0.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/atom-material-syntax",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-116910-12684-axfdnk\\package.tgz",
+    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117018-12224-1lcb0da\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-116910-12684-axfdnk\\package.tgz",
-    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-116910-12684-axfdnk\\package.tgz",
+    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117018-12224-1lcb0da\\package.tgz",
+    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117018-12224-1lcb0da\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-116910-12684-axfdnk\\package.tgz",
-  "_shasum": "98fc439056bad2c5f2862308878a7e216f818c6b",
+  "_resolved": "file:..\\d-117018-12224-1lcb0da\\package.tgz",
+  "_shasum": "12fb84d3b21ab452f45ee88a2a9ae3fae8498709",
   "_shrinkwrap": null,
-  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-116910-12684-axfdnk\\package.tgz",
-  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-116910-12684-hczx5s",
+  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117018-12224-1lcb0da\\package.tgz",
+  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117018-12224-6iwq33",
   "bugs": {
     "url": "https://github.com/silvestreh/atom-material-syntax/issues"
   },
@@ -43,7 +43,7 @@
   "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
   "devDependencies": {},
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">=1.13.0 <2.0.0"
   },
   "homepage": "https://github.com/silvestreh/atom-material-syntax#readme",
   "keywords": [
@@ -55,12 +55,12 @@
   "license": "MIT",
   "name": "atom-material-syntax",
   "optionalDependencies": {},
-  "readme": "![](http://i.imgur.com/f58FC9u.png)\n---\n\nA syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).\n\n![screenshot](https://cloud.githubusercontent.com/assets/499192/11417210/2ff7e544-9415-11e5-8c82-4ba4609eeb7e.png)\n",
+  "readme": "![](http://i.imgur.com/f58FC9u.png)\n---\n\nA syntax theme for [Atom Material UI](https://github.com/silvestreh/atom-material-ui). Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).\n\n![screenshot](http://i.imgur.com/BaBvwqh.png)\n",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/silvestreh/atom-material-syntax.git"
   },
   "theme": "syntax",
-  "version": "0.4.6"
+  "version": "1.0.2"
 }
