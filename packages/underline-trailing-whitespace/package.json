@@ -1,0 +1,75 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117224-17936-1u8nu4r\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117224-17936-1u8nu4r\\package.tgz",
+        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117224-17936-1u8nu4r\\package.tgz",
+        "type": "local"
+      },
+      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117224-17936-8c5div"
+    ]
+  ],
+  "_from": "..\\d-117224-17936-1u8nu4r\\package.tgz",
+  "_id": "underline-trailing-whitespace@1.4.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/underline-trailing-whitespace",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117224-17936-1u8nu4r\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117224-17936-1u8nu4r\\package.tgz",
+    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117224-17936-1u8nu4r\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117224-17936-1u8nu4r\\package.tgz",
+  "_shasum": "8fc34183acb9fe2f5a6e327013f080894e68b6b8",
+  "_shrinkwrap": null,
+  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117224-17936-1u8nu4r\\package.tgz",
+  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117224-17936-8c5div",
+  "author": {
+    "name": "John Otander",
+    "email": "johnotander@gmail.com",
+    "url": "http://johnotander.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/johnotander/atom-underline-trailing-whitespace/issues"
+  },
+  "deactivationCommands": {
+    "atom-workspace": "underline-trailing-whitespace:toggle"
+  },
+  "dependencies": {},
+  "description": "A visual cue for trailing whitespace with a subtle underline",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/johnotander/atom-underline-trailing-whitespace#readme",
+  "keywords": [
+    "atom",
+    "atom-plugin",
+    "underline",
+    "whitespace",
+    "trailing"
+  ],
+  "license": "MIT",
+  "main": "./lib/underline-trailing-whitespace",
+  "name": "underline-trailing-whitespace",
+  "optionalDependencies": {},
+  "readme": "# atom-underline-trailing-whitespace\n\nAn Atom package for providing a visual cue for trailing whitespace with a subtle underline. This\npackage also ignores the current cursor line.\n\n![underline-trailing-whitespace](https://cloud.githubusercontent.com/assets/1424573/5618239/3a1825c0-94d4-11e4-95d5-85175d5191dd.png)\n\n## Installation\n\n```\napm install underline-trailing-whitespace\n```\n\n## Customization\n\nYou can change the underline color with the following:\n\n```less\natom-text-editor,\natom-text-editor::shadow  {\n\n  .trailing-whitespace {\n    border-bottom-color: @my-new-color;\n  }\n}\n```\n\n## License\n\nMIT\n\n## Contributing\n\n1. Fork it\n4. Create your feature branch (`git checkout -b my-new-feature`)\n5. Commit your changes (`git commit -am 'Add some feature'`)\n6. Push to the branch (`git push origin my-new-feature`)\n7. Create new Pull Request\n\nCrafted with <3 by [John Otander](http://johnotander.com)([@4lpine](https://twitter.com/4lpine)).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnotander/atom-underline-trailing-whitespace.git"
+  },
+  "version": "1.4.2"
+}
