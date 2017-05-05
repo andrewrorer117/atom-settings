@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+        "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+        "type": "local"
+      },
+      "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117330-38312-18uj0mg.fk9q5v1jor"
+    ]
+  ],
+  "_from": "..\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+  "_id": "language-bnf@1.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-bnf",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+    "spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+  "_shasum": "275f7438a2e9a9aacfde21e887c63b0c19c4afeb",
+  "_shrinkwrap": null,
+  "_spec": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\d-117330-38312-nn3m99.a1ezhq6w29\\package.tgz",
+  "_where": "D:\\Users\\andrewrorer117\\AppData\\Local\\Temp\\apm-install-dir-117330-38312-18uj0mg.fk9q5v1jor",
+  "bugs": {
+    "url": "https://github.com/mackoj/language-bnf/issues"
+  },
+  "dependencies": {},
+  "description": "BNF(Backus-Naur Form) and ABNF(Augmented Backus–Naur Form) syntax support in Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/mackoj/language-bnf#readme",
+  "license": "MIT",
+  "name": "language-bnf",
+  "optionalDependencies": {},
+  "readme": "# Backus-Naur Form syntax support in Atom\n\nThis plugin offers support for [Backus-Naur Form](http://en.wikipedia.org/wiki/Backus–Naur_Form) syntax grammars\n\nIt has been converted from https://github.com/rpowelll/BNF.tmbundle\n\n# Contributing\n\nContributions are greatly appreciated.\nIf you find a bug please consider creating an issue for it. To be treated fast consider adding a test case in the spec file in order to reproduce it.\nPlease fork this repository and open a pull request to add snippets, make grammar tweaks, etc.\n\nThanks to @jarmokivekas for contributing\n\n# ToDo\n\n  * Add unit tests\n  * Improve snippets\n  * Improve documentation\n  * Add support for EBNF([Extended Backus–Naur Form](http://en.wikipedia.org/wiki/Extended_Backus–Naur_Form)) and ABNF([Augmented Backus–Naur Form](http://en.wikipedia.org/wiki/Augmented_Backus–Naur_Form))\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mackoj/language-bnf.git"
+  },
+  "version": "1.1.0"
+}
