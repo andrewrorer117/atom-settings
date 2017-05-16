@@ -9,6 +9,9 @@
       compactList: true
     ui: {}
   core:
+    disabledPackages: [
+      "language-python"
+    ]
     telemetryConsent: "limited"
     themes: [
       "atom-material-ui"
@@ -37,3 +40,8 @@
 ".cs.source":
   editor:
     tabLength: 4
+".python.source":
+  editor:
+    showIndentGuide: false
+    showInvisibles: false
+    softWrap: false
