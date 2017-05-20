@@ -25,6 +25,8 @@
     scrollPastEnd: true
   "exception-reporting":
     userId: "9af61268-2ffa-e245-425c-ab6bd97a9f9b"
+  "linter-eslint":
+    disableWhenNoEslintConfig: false
   "linter-flake8":
     maxLineLength: 80
   "linter-ui-default":
